@@ -3,7 +3,7 @@
 ## Features
 
 * MVC
-* CRUD and Resource Controllers
+* Login and registration functionality
 * Passport
 * REST API
 * Eloquent
